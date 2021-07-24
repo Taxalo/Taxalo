@@ -1,1 +1,2 @@
-- 👋 Viva españa
+- 👋 Viva españa.
+- 💩 Projects may be (and are) bad.
